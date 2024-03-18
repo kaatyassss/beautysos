@@ -42,11 +42,11 @@ body {
 .header {
     position: relative;
     font-family: "Playfair Display SC", serif;
-    background-image: url("../main-page/images/background.png");
+    background-image: url("../main-page/images/background-main.png");
     background-size: cover;
     background-position: center;
     height: 100vh;
-    padding-top: 22%;
+    padding-top: 23%;
     padding-left: 3%;
 }
 
