@@ -1,0 +1,122 @@
+html {
+    background: #F0FFEE;
+}
+body {
+    overflow-x: hidden;
+    background: #F0FFEE;
+}
+
+.navbar {
+    background: #F0FFEE;
+}
+.nav-link, .navbar-brand {
+    color: white;
+    cursor: pointer;
+    margin-left: 1em;
+    text-align: center;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+.nav-item {
+    color: #000;
+    font-family: "Playfair Display SC", serif;
+    margin-right: 50px;
+    margin-top: -1%;
+}
+#id-main-nav {
+    margin-right: 20px;
+    border-bottom: 2px solid rgba(24, 32, 23, 0.25);
+    padding-bottom: 3px;
+    width: 100%;
+}
+.navbar-nav {
+    margin-right: 2%;
+}
+
+.survey {
+    background: #F0FFEE;
+}
+.survey h4, p, label {
+    font-family: "Playfair Display SC", serif;
+}
+.greeting {
+    text-align:center;
+    padding:  40px 0px 40px 0px;
+}
+#question_1, #question_3, #question_5 {
+    margin-left: 15%;
+    width: 85%;
+    margin-bottom: 5%;
+}
+#question_2, #question_4, #question_6 {
+    margin-right: 15%;
+    width: 85%;
+    margin-bottom: 5%;
+}
+.textOnRight{
+    width: 25%;
+    margin: 0 0 0 auto;
+}
+#blokOnRight, #question_4 h4, #question_6 h4 {
+    text-align: right;
+}
+
+select{
+    background-color: #FFFFFF;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.3);
+    border: 0px;
+    border-radius: 5px;
+    width: 24%;
+    height: 30px;
+    color: black;
+    text-align: left;
+    font-family: "Playfair Display SC", serif !important;
+    margin-top: 2%;
+}
+
+#question_1 button, #question_2 button {
+    background-color: #FFFFFF;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3), 0 0 20px rgba(0, 0, 0, 0.3);
+    border: 0px;
+    width: 20%;
+    color: black;
+    text-align: left;
+    font-family: "Playfair Display SC", serif;
+    margin-top: 2%;
+}
+#dropdownMenuButton1 ::after{
+    margin-left: 100px;
+}
+
+#btn1 {
+    background-color: #9CD692 !important;
+    color: #000000 !important;
+    box-shadow: 0 0 15px rgb(255, 255, 255), 0 0 20px rgb(255, 255, 255);
+    width: 16%;
+    /*margin-right: 7% !important;*/
+    margin-bottom: 0.5%;
+    margin-top: 0.5%;
+    font-size: 18px;
+    border-radius: 16px; padding: 10px;
+}
+
+.contact-form {
+    font-family: Playfair Display SC, serif;
+}
+
+hr {
+    width: 70%;
+    margin-bottom: 5% !important;
+    /*margin-top: 2% !important;*/
+}
+
+#yar {
+    margin-bottom: 3% !important;
+    font-family: Playfair Display SC, serif;
+}
+
+#con1 {
+    margin-top: -1%;
+    margin-bottom: 3% !important;
+}
