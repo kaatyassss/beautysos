@@ -46,14 +46,9 @@
    - Создайте новую базу данных с именем `beautysos`.
 
 5. **Настройте файл конфигурации**
-   - Переименуйте файл `.env.example` в `.env`.
-   - Откройте файл `.env` и настройте параметры подключения к базе данных:
-    ```env
-    DB_HOST=localhost
-    DB_PORT=3306
-    DB_DATABASE=beautysos
-    DB_USERNAME=root
-    DB_PASSWORD=
+   - Откройте файл `.htaccess` и настройте параметры кодировки:
+    ```sh
+    AddDefaultCharset UTF-8
     ```
 
 6. **Импортируйте базу данных**
