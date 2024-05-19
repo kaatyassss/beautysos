@@ -83,6 +83,6 @@
 Если у вас есть вопросы или предложения, свяжитесь с нами:
 
 - Электронная почта: support@beautysos.com
-- GitHub: [https://github.com/kaatyassss/beautysos](https://github.com/kaatyassss/beautysos)
+- ВКонтакте: [https://vk.com/beautysos](https://vk.com/beautysos)
 
 
