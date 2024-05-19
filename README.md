@@ -29,7 +29,7 @@
 ### Шаги
 1. **Клонируйте репозиторий**
     ```sh
-    git clone https://github.com/yourusername/BeautySOS.git
+    git clone https://github.com/kaatyassss/beautysos.git
     ```
 
 2. **Перейдите в каталог проекта**
