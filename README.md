@@ -83,6 +83,4 @@
 Если у вас есть вопросы или предложения, свяжитесь с нами:
 
 - Электронная почта: support@beautysos.com
-- ВКонтакте: [https://vk.com/beautysos](https://vk.com/beautysos)
-
-
+- ВКонтакте: https://vk.com/kaatyassss, https://vk.com/darisha_10
